@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "add-two-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "two-sum"
 version = "0.1.0"

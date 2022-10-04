@@ -2,4 +2,5 @@
 
 members = [
     "two-sum",
+    "add-two-numbers",
 ]
